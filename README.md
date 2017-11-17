@@ -10,4 +10,4 @@
 * 有道云笔记
 * chrome
 * lantern
-* Typora
+* [Typora](url:https://www.typora.io/)
