@@ -3,11 +3,11 @@
 
 * 番茄土豆
 * sublime text
-* clean my mac
 * SourceTree
 * brew
 * cocoapods
 * 有道云笔记
 * chrome
-* lantern
+* lantern / ShadowsocksX-NG
 * [Typora](url:https://www.typora.io/ "Typora")
+- IINA
